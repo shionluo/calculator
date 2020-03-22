@@ -9,7 +9,7 @@ import store from 'redux/store';
 import { BrowserRouter as Router } from 'react-router-dom';
 
 // Import - Components
-import App from 'components/app/app.component';
+import App from 'containers/app/app.component';
 
 // Import - Styles
 import GlobalStyles from 'utils/global-styles';
