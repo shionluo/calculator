@@ -8,7 +8,7 @@ import store from 'redux/store';
 // Import - Router
 import { BrowserRouter as Router } from 'react-router-dom';
 
-// Import - Components
+// Import - Containers
 import App from 'containers/app/app.component';
 
 // Import - Styles
